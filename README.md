@@ -1,5 +1,5 @@
 # HMWFM_3DprintedParts
-.STL files for the 3d printed parts used in the Head mounted WideField Microscope
+.STL files for the 3d printed parts used in the Head Mounted WideField Microscope
 
 Files will appear in this directory .
 
